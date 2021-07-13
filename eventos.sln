@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "eventos", "http://localhost/eventos", "{3AA6AF26-36B8-47E7-98DA-A7AF15015CA8}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/eventos"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\inetpub\wwwroot\eventos\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\eventos\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/eventos"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\inetpub\wwwroot\eventos\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\eventos\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\..\inetpub\wwwroot\eventos\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AA6AF26-36B8-47E7-98DA-A7AF15015CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA6AF26-36B8-47E7-98DA-A7AF15015CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B194135D-B949-46E5-983F-695CA1E1974B}
+	EndGlobalSection
+EndGlobal
